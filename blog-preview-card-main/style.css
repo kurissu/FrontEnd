@@ -31,12 +31,6 @@ img{
 p{
     font-size: 16px;
 }
-.author-name{
-    margin:0;
-    display: inline-block;
-    font-weight: bold;
-    vertical-align: middle;
-}
 .content{
    color:  hsl(0, 0%, 50%)
 }
@@ -45,5 +39,4 @@ p{
     width: 30px;
     display: inline-block;
     vertical-align: middle;
-
 }
