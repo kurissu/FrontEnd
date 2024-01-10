@@ -15,11 +15,13 @@ img{
     font-weight: bold;
     border-radius: 5px;
 }
-.card{
+main{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.card{
     align-items: center;
     background-color: white;
     border: 1px solid black;
